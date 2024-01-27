@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m @MMDXd
 - 🌱 I’m currently learning "BACKEND"
-- 📫 How to reach me xdmmd
+- 📫 Discord: xdmmd
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wK9KDnWKkw)
