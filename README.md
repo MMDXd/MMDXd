@@ -1,6 +1,5 @@
 # 💫About Me :
 - 👋 Hi, I’m @MMDXd
-- 🌱 I’m currently learning "BACKEND"
 - 📫 Discord: xdmmd
 
 ## 🌐Socials
